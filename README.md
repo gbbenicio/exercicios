@@ -4,4 +4,4 @@ Repositório com exercícios em diferentes linguagens.
 ## Python
 
 - Diretório **pynative**  
-Exercícios de pyhton do site pynative.com
+Exercícios de pyhton do site [pynative.com](https://pynative.com/)
