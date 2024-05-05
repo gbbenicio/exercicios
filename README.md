@@ -3,5 +3,5 @@ Repositório com exercícios em diferentes linguagens.
 
 ## Python
 
-- Diretório **pynative**
+- Diretório **pynative**  
 Exercícios de pyhton do site pynative.com
