@@ -6,5 +6,5 @@ Repositório com exercícios em diferentes linguagens.
 - Diretório **pynative**  
 Exercícios de Python do site [Pynative](https://pynative.com/)
 
-- Diretório **python-brasil**
-- Exercícios do site [Pyhton Brasil](https://wiki.python.org.br/ListaDeExercicios)
+- Diretório **python-brasil**  
+Exercícios do site [Pyhton Brasil](https://wiki.python.org.br/ListaDeExercicios)
