@@ -24,7 +24,7 @@ Fazer um programa que imprime uma tabela com a tabuada de 1 a 9.
 Fazer um programa que solicita um número decimal e imprime o correspondente em hexa e octal.
 
 **Exercício:**  
-Fazer um programaem C que solicite 2 números e informe:
+Fazer um programa em C que solicite 2 números e informe:
 
 a) A soma dos números;  
 b) O produtodo primeiro número pelo quadrado do segundo;  
