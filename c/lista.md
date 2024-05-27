@@ -1,11 +1,16 @@
 # Lista de Exercícios
 
-- Grupo I - variáveis
-- Grupo II - entrada e saída
-- Grupo III - operadores
-- Grupo IV - programa sequência simples
-- Grupo V - explorando os comandos de controle de fluxo
-- Grupo VI - Structs
+- Grupo I - Variáveis
+- Grupo II - Entrada e saída
+- Grupo III - Operadores
+- Grupo IV - Programa sequência simples
+- Grupo V - Explorando os comandos de controle de fluxo
+- Grupo VI - Strings
+- Grupo VII - Vetores
+- Grupo VIII - Explorando o uso de funções
+- Grupo IX - Ponteiros
+- Grupo X - Structs
+- Grupo XI - Passagem de parâmetros e estruturas
 
 #### Grupo IV
 
